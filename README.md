@@ -1,4 +1,8 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+
+# Register number: 212225230206
+# Date: 04-11-2026
+
 # AIM:
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 
@@ -32,7 +36,7 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# INPUT:
+# PROGRAM:
 
 ```
 %{
